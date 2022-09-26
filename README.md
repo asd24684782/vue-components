@@ -1,2 +1,4 @@
-# vue-components
-store my vue components
+# Vue components
+Store my vue components
+## Album
+list images like album
